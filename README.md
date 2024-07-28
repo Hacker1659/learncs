@@ -1,0 +1,2 @@
+# learncs
+learn (mostly python)
